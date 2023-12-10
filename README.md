@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murat ozdemir 
-- 👀 I’m interested in Flutter,Dart,Firabase,Firestroe
+- 👀 I’m interested in Flutter,Dart,Firebase,Firestroe
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on Mobile App  
 - 📫 How to reach me ozdemirmurat2000@icloud.com
